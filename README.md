@@ -7,7 +7,8 @@ To write a program to implement the simple linear regression model for predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm: 1.Use the standard libraries in python for Gradient Design.
+## Algorithm: 
+              1.Use the standard libraries in python for Gradient Design.
               2.Upload the dataset and check any null value using .isnull() function. 
               3.Declare the default values for linear regression.
               4.Calculate the loss usinng Mean Square Error. 
